@@ -1,12 +1,14 @@
 # Fi-Bot Frontend
 
 <ul>
-    <li>This Project is built using Vite + React Js</li>
+    <li>This Project is built using Vite + React Js and Tailwind CSS</li>
 <ul>
 
-<h2> To Run This Project </h2>
+<h2> To Run This Project, Follow these steps </h2>
 <ul>
     <li>Clone The Repository</li>
     <li>Run "npm install" command</li>
     <li>Run "npm run dev" command</li>
-<ul>
+</ul>
+<br>
+<a href="fibot.netlify.app" target="_blank">Website</a>
