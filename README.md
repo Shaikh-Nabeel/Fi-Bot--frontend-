@@ -11,4 +11,4 @@
     <li>Run "npm run dev" command</li>
 </ul>
 <br>
-<a href="fibot.netlify.app" target="_blank">Website</a>
+<a href="https://fibot.netlify.app" target="_blank">Website</a>
